@@ -1,0 +1,13 @@
+Host: www.linkedin.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: application/vnd.linkedin.normalized+json+2.1
+Accept-Language: en-US,en;q=0.5
+Referer: https://www.linkedin.com/company/cyber-ark-software/
+x-li-lang: en_US
+x-li-track: {"clientVersion":"1.7.4661","mpVersion":"1.7.4661","osName":"web","timezoneOffset":2,"deviceFormFactor":"DESKTOP","mpName":"voyager-web","displayDensity":1,"displayWidth":1918,"displayHeight":1019}
+x-li-page-instance: urn:li:page:d_flagship3_search_srp_people;AJfkTTdHTmS0pEpyOmyDJw==
+csrf-token: ajax:9019252004362482389
+x-restli-protocol-version: 2.0.0
+Connection: keep-alive
+Cookie: bcookie="v=2&5b46b7a6-8c61-488c-89b8-a759a81faf8a"; bscookie="v=1&202010290724242e538db8-0fea-41e6-882c-86fe091d083eAQH2HpS0n6lgHGNu969u3j_MjDzyrh4f"; lissc=1; JSESSIONID="ajax:9019252004362482389"; lidc="b=OB96:s=O:r=O:g=2166:u=228:i=1603969053:t=1604050780:v=1:sig=AQHcxIA01PCVzZRAKzNkzYlW6_ejV_lm"; _ga=GA1.2.677446883.1603956265; _gid=GA1.2.1794191412.1603956265; G_ENABLED_IDPS=google; AMCV_14215E3D5995C57C0A495C55%40AdobeOrg=-408604571%7CMCIDTS%7C18565%7CMCMID%7C77347081209004518503957726879287891816%7CMCAAMLH-1604570762%7C6%7CMCAAMB-1604570762%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1603973162s%7CNONE%7CvVersion%7C4.6.0%7CMCCIDH%7C485114418; aam_uuid=77529766643658459533901107507934438563; li_at=AQEDASVKQpADy79lAAABdXM-XMIAAAF1l0rgwk0AF3dbEmJXztBDOEJSCOOeUcETUmBeDwpQYH94CmVokk1M8YXlkzHFO8F6OD0Z7OTwicJu8t5SkNY1KuC05yaf1CXJY_mm2_3m1T9_fU4SDb-7uKC2; liap=true; UserMatchHistory=AQLMH4ktwHUiRAAAAXV0AWGA8m0P_PgPIzwWUJ8Z7vjq_AmQCtU7dvS8yFCoFQDZbTAHyDwa9X8Pj_2cRNNF2ZbwaCSwsXROUs4Lhc7Uar3FDq2e9cry8idOTeJCgov6Mshy-kKs5jQys_K_LL66KeIe8wzgoArIenPUH3Xj5immbwhq20K9O3fjAs3NMgAkjtbPECbOxDn2_1DeLdBaATd5c70Vm_w6UssOVlt2cikx2ZFH4tSV-gDEGFULLtfrT9_qWmA; li_sugr=8c6f9988-791f-4912-9088-98a13f3e4417; li_oatml=AQGhNAmbhheV3QAAAXVzPoxRtbmcOTtL8adnP_18EfzoqGZzCp0SY1FxWFZGNpu44QT1XwKLlm6mSm3V4KOe9dfztK8Fzi7I; lang=v=2&lang=en-us; AMCVS_14215E3D5995C57C0A495C55%40AdobeOrg=1; _gat=1
+TE: Trailers
